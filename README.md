@@ -7,6 +7,6 @@ Sign in / Sign out
 ​Product Detail
 ​Cart
 ​Checkout
-​and also payment funtionality
+​and also payment functionality
 
 
